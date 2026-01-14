@@ -30,8 +30,6 @@ Toy Lagrangian:
 Equation of motion:  
 ∂²ϕ/∂t² − ∂²ϕ/∂x² + m²ϕ + 2 ∂ϕ/∂x + κ ∂⁴ϕ/∂x⁴ = 0  
 
-Full draft PDF: [Download preprint.pdf](preprint.pdf) (or link to compiled version if you have one)  
-LaTeX source: In /paper/ folder (or root).
 
 ### Status & How to Engage
 - This is an early **draft preprint** — feedback, critiques, suggestions, and potential collaborations are very welcome!
