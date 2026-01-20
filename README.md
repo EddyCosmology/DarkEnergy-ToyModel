@@ -59,7 +59,6 @@ It is at the level of many phenomenological dark energy proposals published on a
 
 - `preprint.tex` — AAS TeX preprint draft
 - `references.bib` — BibTeX bibliography
-- `src/` — Python simulation code (background solver, stochastic runs, perturbation toy model)
 
 Contributions, extensions, or criticism welcome.
 
