@@ -45,7 +45,6 @@ The following upgrades transformed the initial toy PDE into a self-consistent, t
 ## Current Status
 
 The model is now a coherent, minimally coupled k-essence + higher-derivative + stochastic-collapse + running-vacuum framework — no longer a bare toy model.  
-It is at the level of many phenomenological dark energy proposals published on arXiv and suitable for further refinement or submission.
 
 ## Next Steps (Planned)
 
